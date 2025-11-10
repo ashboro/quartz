@@ -6,6 +6,8 @@
 - Can form single, double, or triple bonds
 - Enables chain, ring, and branched structures
 
+![[Pasted image 20251110175858.png]]
+
 Linked topics:
 - [[Covalent Bonding]]
 - [[Functional Groups]]
